@@ -8,6 +8,7 @@
 As a visitor, I want to browse property listings so that I can explore available properties without an account.  
 
 **Back of the Card**  
+
 ✅ **Success Scenarios**  
 - Homepage loads with a grid of featured properties (thumbnail, price, location).  
 - Users can click on a property to view details.  
