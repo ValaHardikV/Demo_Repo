@@ -2,8 +2,7 @@
 
 ---
 
-## 1. 
-As a visitor, I want to browse property listings so that I can explore available properties without an account.  
+1. As a visitor, I want to browse property listings so that I can explore available properties without an account.  
 
 ### ✅ Success Scenarios
 - Homepage loads with a grid of featured properties (thumbnail, price, location).
@@ -17,8 +16,7 @@ As a visitor, I want to browse property listings so that I can explore available
 
 ---
 
-## 2.  
-As a registered user, I want to save a property listing so that I can revisit it later.  
+2. As a registered user, I want to save a property listing so that I can revisit it later.  
 
 ### ✅ Success Scenarios
 - Click “Save” on a property → Saved to user account under **Saved Listings**.
@@ -32,8 +30,7 @@ As a registered user, I want to save a property listing so that I can revisit it
 
 ---
 
-## 3.  
-As a verified lister, I want to post a new property listing so that buyers/renters can view it.  
+3. As a verified lister, I want to post a new property listing so that buyers/renters can view it.  
 
 ### ✅ Success Scenarios
 - Fill out form (title, description, photos, price) → Listing is submitted for **admin review**.
@@ -48,8 +45,7 @@ As a verified lister, I want to post a new property listing so that buyers/rente
 
 ---
 
-## 4.  
-As an administrator, I want to moderate listings so that only verified and compliant listings are published.  
+4. As an administrator, I want to moderate listings so that only verified and compliant listings are published.  
 
 ### ✅ Success Scenarios
 - Approve/reject listings via dashboard → Status updates instantly.
