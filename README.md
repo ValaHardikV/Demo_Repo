@@ -1,7 +1,8 @@
 # User Stories & Scenarios
 
-## 1. Visitor – Browse Property Listings
-**User Story:**  
+---
+
+## 1. 
 As a visitor, I want to browse property listings so that I can explore available properties without an account.  
 
 ### ✅ Success Scenarios
@@ -16,8 +17,7 @@ As a visitor, I want to browse property listings so that I can explore available
 
 ---
 
-## 2. Registered User – Save Property Listings
-**User Story:**  
+## 2.  
 As a registered user, I want to save a property listing so that I can revisit it later.  
 
 ### ✅ Success Scenarios
@@ -32,8 +32,7 @@ As a registered user, I want to save a property listing so that I can revisit it
 
 ---
 
-## 3. Verified Lister – Post New Property
-**User Story:**  
+## 3.  
 As a verified lister, I want to post a new property listing so that buyers/renters can view it.  
 
 ### ✅ Success Scenarios
@@ -49,8 +48,7 @@ As a verified lister, I want to post a new property listing so that buyers/rente
 
 ---
 
-## 4. Administrator – Moderate Listings
-**User Story:**  
+## 4.  
 As an administrator, I want to moderate listings so that only verified and compliant listings are published.  
 
 ### ✅ Success Scenarios
