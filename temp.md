@@ -5,7 +5,7 @@
 ## User Story 1
 
 **Front of the Card**  
-As a visitor, I want to browse property listings so that I can explore available properties without an account.  
+    As a visitor, I want to browse property listings so that I can explore available properties without an account.  
 
 **Back of the Card**  
 
