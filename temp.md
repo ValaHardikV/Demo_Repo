@@ -73,4 +73,12 @@ As an administrator, I want to moderate listings so that only verified and compl
 - **Dashboard not loading**  
   *Message:* `Moderation tools are unavailable. Try refreshing the page.`  
 - **Unauthorized admin access attempt**  
-  *Message:* `Access denied. Your credentials are invalid or expired.`  
+  *Message:* `Access denied. Your credentials are invalid or expired.`
+
+
+
+
+
+
+
+![Description](image/Question1.jpg)
